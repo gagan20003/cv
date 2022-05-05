@@ -7,3 +7,9 @@ h1{
 h3{
     color: #66BFBF;
 }
+h1:hover{
+    color: black;
+}
+img:hover{
+    border-radius: 50%;
+}
